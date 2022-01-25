@@ -1,0 +1,31 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1408.4 899.7" style="background-color: rgba(255, 255, 255, 0.3); border-radius: 3.3%;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#000000;stroke-width:7.7664;stroke-miterlimit:10;}
+</style>
+<g class="st0">
+	<path class="st1" d="M1375.8,899.7H32.6c-18,0-32.6-14.6-32.6-32.6V32.6C0,14.6,14.6,0,32.6,0h1343.2c18,0,32.6,14.6,32.6,32.6
+		v834.6C1408.4,885.2,1393.8,899.7,1375.8,899.7z"></path>
+</g>
+<g>
+	<path class="st2" d="M1375.8,899.7H32.6c-18,0-32.6-14.6-32.6-32.6V32.6C0,14.6,14.6,0,32.6,0h1343.2c18,0,32.6,14.6,32.6,32.6
+		v834.6C1408.4,885.2,1393.8,899.7,1375.8,899.7z" style="stroke: white;"></path>
+	<g>
+		<g>
+			<path id="XMLID_156_" class="st2" d="M205.2,386.2c-52.7,12.9-92.2,60.7-92.2,117.2v35.8h241.3v-35.8
+				c0-58.1-41.6-106.9-96.4-118.2" style="stroke: white;"></path>
+			<path id="XMLID_155_" class="st2" d="M256.3,370.4V406c0,14.1-11.4,25.5-25.5,25.5l0,0c-14.1,0-25.5-11.4-25.5-25.5v-36.5" style="stroke: white;"></path>
+			<path id="XMLID_154_" class="st2" d="M128.5,271.8c-1.7,0.8-3.6,1.2-5.6,1.2l0,0c-7.3,0-13.2-5.9-13.2-13.2V247
+				c0-7.3,5.9-13.2,13.2-13.2l0,0c3.3,0,6.4,1.2,8.7,3.3" style="stroke: white;"></path>
+			<path id="XMLID_153_" class="st2" d="M334.6,234L334.6,234c7.3,0,13.2,5.9,13.2,13.2v12.7c0,7.3-5.9,13.2-13.2,13.2" style="stroke: white;"></path>
+			<path id="XMLID_152_" class="st2" d="M332.1,180.6V272c0,56.2-45.5,101.7-101.7,101.7l0,0c-56.2,0-101.7-45.5-101.7-101.7v-38.5" style="stroke: white;"></path>
+			<path id="XMLID_151_" class="st2" d="M368.6,96.4v43c0,22.9-18.5,41.4-41.4,41.4H162.3c-11.4,0-20.7,9.3-20.7,20.7v27.1
+				c0,2.3-1.9,4.1-4.1,4.1h-20.6c-2.3,0-4.1-1.9-4.1-4.1v-78.7c6.5-19.5,28.9-12.2,28.9-12.2c0-22.9,18.6-41.4,41.4-41.4L368.6,96.4
+				L368.6,96.4L368.6,96.4z" style="stroke: white;"></path>
+			<path class="st2" d="M354.4,170.7v56.4c0,4.4-3.6,7.9-7.9,7.9h-11.8" style="stroke: white;"></path>
+		</g>
+	</g>
+	<rect x="109.3" y="600.5" class="st2" width="1194.1" height="219" style="stroke: white;"></rect>
+</g>
+</svg>

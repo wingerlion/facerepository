@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.camera{
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.video-circle{
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.button-camera-first{
+  margin-top:20px;
+}
+
+.text-notification-camera{
+  font-weight: bold;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top:20px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73,79,82);
+  color:white;
+}
+
+.nav-links{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.cameraDNI{
+  box-sizing: border-box;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.videoCSS{
+  position: absolute;
+  display:block 
+}
+
+
+.dnilogo{
+  width: 85%;
+  top: 12.2874%;
+  left: 7.5%;
+  display:block;
+  position: absolute  ;
+  margin-top: 200px;
+}
+
+@media (orientation: portrait){
+  .dnilogo{
+    width: 85%;
+    top: 32.2874%;
+    left: 7.5%;
+    display:block;
+    position: absolute  ;
+    transform: rotate(90deg);
+  }
+}
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
